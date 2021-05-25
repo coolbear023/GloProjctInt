@@ -1,2 +1,2 @@
 # GloProjctInt
- 
+ Учебный проект GloAcademy
